@@ -1,0 +1,3 @@
+[submodule "kan-moe"]
+	path = kan-moe
+	url = git@github.com:JurandP/llm-random-kanmoe.git
